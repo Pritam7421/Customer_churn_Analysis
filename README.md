@@ -100,17 +100,16 @@ Used:
 ## 📊 Visualizations
 
 ### Churn Distribution
-![Churn Distribution](Images/Churn Distribution.png)
+![Churn Distribution](Images/Churn%20Distribution.png)
 
 ### Correlation Heatmap
-![Correlation Heatmap](images/correlation_heatmap.png)
+![Correlation Heatmap](Images/Co-relation%20Heatmap.png)
 
 ### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix](Images/Confusion%20Matrix.png)
 
 ### Feature Importance
-![Feature Importance](Images/10 Important Features.png)
-
+![Feature Importance](Images/10%20Important%20Features.png)
 ---
 
 ## 📌 Business Value
