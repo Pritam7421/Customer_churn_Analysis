@@ -100,7 +100,7 @@ Used:
 ## 📊 Visualizations
 
 ### Churn Distribution
-![Churn Distribution](images/churn_distribution.png)
+![Churn Distribution](Images/Churn Distribution.png)
 
 ### Correlation Heatmap
 ![Correlation Heatmap](images/correlation_heatmap.png)
@@ -109,7 +109,7 @@ Used:
 ![Confusion Matrix](images/confusion_matrix.png)
 
 ### Feature Importance
-![Feature Importance]Images/10 Important Features.png
+![Feature Importance](Images/10 Important Features.png)
 
 ---
 
