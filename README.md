@@ -109,7 +109,7 @@ Used:
 ![Confusion Matrix](images/confusion_matrix.png)
 
 ### Feature Importance
-![Feature Importance](images/feature_importance.png)
+![Feature Importance]Images/10 Important Features.png
 
 ---
 
